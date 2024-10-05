@@ -23,6 +23,6 @@ I am a Computer Engineer and a backend developer specialized in building API-dri
 
 ---
 
-### 📫 Contact Me:
+### 📫 Relevant links:
 - [LinkedIn](https://www.linkedin.com/in/diego-cedeño-22145230a/)
 - [LeetCode](https://leetcode.com/u/lcqS5Bf0PQ/)
