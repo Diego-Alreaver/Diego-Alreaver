@@ -2,10 +2,11 @@
 
 I am Computer Engineer and a backend developer specialized in building API-driven applications.
 
-![Banner](https://your-image-link.com/banner.png)
+
 
 ### My GitHub Stats:
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Alreaver)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Alreaver)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies and Tools:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
