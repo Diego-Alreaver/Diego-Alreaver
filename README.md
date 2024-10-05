@@ -1,6 +1,7 @@
- Hello! I'm Diego 👋
+## 👨‍💻 About Me:
 
-I am a Computer Engineer and a backend developer specialized in building API-driven applications. My main expertise lies in Python, Go, and frameworks like Django and Django REST Framework.
+Hi there! I'm **Diego**, a passionate **Backend Developer** and **Computer Engineer**.  
+I specialize in creating efficient, scalable APIs.
 
 ---
 
