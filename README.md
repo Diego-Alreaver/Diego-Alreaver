@@ -2,6 +2,7 @@
 
 Hi there! I'm **Diego**, a passionate **Backend Developer** and **Computer Engineer**.  
 I specialize in creating efficient, scalable APIs.
+Work account: https://github.com/Diego-ReadyChatAI
 
 ---
 
